@@ -1,0 +1,77 @@
+commit b25e50218f0c71fcc59c4f6eda6ccc7d8a83c4d3
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Sun Jan 17 12:49:09 2021 +0100
+
+    Report and correctif for bugs
+
+commit 3a9ee2698cd3c6afdfd0c40c5aa2005f76153a34
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Wed Dec 30 14:46:39 2020 +0100
+
+    readColor
+
+commit 4ab5234857dd72f8b7eccc8f5884255f89d08040
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Mon Dec 28 15:41:19 2020 +0100
+
+    ReadB&W (en cours)
+
+commit c5cf8d9595e5ed6a82c34264f91eb9f4d0079727
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Thu Dec 17 17:49:24 2020 +0100
+
+    Add error of area in the struct
+
+commit 438aa0e9ff7ad542da5562fd10fc3cd985884618
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Wed Dec 2 16:49:31 2020 +0100
+
+    Merge branch 'main' of https://git-etud.u-pem.fr/project-c into main Menu et test de sauvegarde
+    
+commit b9a75a8d4bc94189fc344d92c59a8aaa7869da98
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Wed Dec 2 16:45:21 2020 +0100
+
+    Menu et test de sauvegarde + correctif de quelques bugs
+
+commit f4c7ee4e8afb9fbee052e8965866112557f1653b
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Wed Dec 2 16:45:26 2020 +0100
+
+    Test
+
+commit 9833a9367907ea5fc729b5ba0b16ae0dd9ee6b92
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Sun Nov 22 19:11:18 2020 +0100
+
+    Save : 22/11/2020
+
+commit be671701bd389accdf11aaec0c98c931987ec1ab
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Wed Nov 13 17:38:41 2020 +0100
+
+    Erreur pour BuildQuadTree
+
+commit 1e6d87c4bf07b4a227bf5cf9d6ef85dc17424162
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Fri Nov 13 16:49:08 2020 +0100
+
+    V3
+
+commit 2dabacb8ca1865bdbda380b5fb48242146358ca1
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Fri Nov 13 16:35:30 2020 +0100
+
+    Test
+
+commit ac831e4e87cf31308a1cc86601d0ef69a3855426
+Author: DA COSTA MOURA <kdacos01@etud.u-pem.fr>
+Date:   Wed Nov 13 16:28:31 2020 +0100
+
+    Version 2
+
+commit bd2cbaf26db0ffbc0a3d714dad1fe4f3d06d5a1c
+Author: Steve <schen07@etud.u-pem.fr>
+Date:   Thu Nov 12 13:30:39 2020 +0100
+
+    First save
